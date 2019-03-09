@@ -1,0 +1,11 @@
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.deps.json
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.runtimeconfig.json
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.dll
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\bin\Debug\netcoreapp2.1\10. Rage Expenses.pdb
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.dll
+C:\Technology-Fundamentas\01. Intro and basic syntax - Exercise\10. Rage Expenses\obj\Debug\netcoreapp2.1\10. Rage Expenses.pdb
