@@ -1,2 +1,3 @@
 # SoftUni - Technology-Fundamentals
-Technology Fundamentals 2018
+Technology Fundamentals - September - 2018
+
